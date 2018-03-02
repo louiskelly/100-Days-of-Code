@@ -1,0 +1,10 @@
+body{
+	background-color: #333333;
+}
+
+#morph{
+	transition-duration:0.5s;
+	margin: 0 auto;
+	margin-top: 15%;
+	background-position: center;
+}
