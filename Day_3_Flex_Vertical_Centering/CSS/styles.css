@@ -1,0 +1,19 @@
+body{
+	margin: 0;
+}
+
+h1{
+	color: white;
+	font-family: sans-serif;
+	font-size: 5vw;
+}
+
+#container{
+	width: 100vw;
+	height: 100vh;
+	background-color: maroon;
+	/*Important stuff*/
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
